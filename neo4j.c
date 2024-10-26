@@ -1,7 +1,7 @@
 // Compile this as
 // zcc +zx -vn -O2 -I<Spectranet libraries>/include -L<Spectranet libraries>/lib -o neo4j.bin neo4j.c -lndos -llibsocket -create-app
 //
-// See https://medium.com/TODO for more details
+// See https://medium.com/@jorallan/running-neo4j-on-a-zx-spectrum-afa7e128984d for more details
 
 #include <errno.h>
 #include <netdb.h>
